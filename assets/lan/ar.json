@@ -1,0 +1,60 @@
+{
+
+    "Hi":"مرحبا",
+    "Morning": "صباح الخير",
+    "Ramadan" : "رمضان",
+    "RamadanPackage": "باقات رمضان",
+    "WeightLoss": "خسارة وزن",
+    "LowCarbohydrate":"دهون قليلة",
+    "Keto":"كيتو",
+    "Vegetarian":"نباتي",
+    "Private":"خاص",
+    "WeightIncrement": "زيادة وزن",
+    "Regular":"عادي",
+    "Sport": "رياضة",
+    "Ourpackages":"باقاتي",
+    "Afternoon":"مساء الخير",
+    "Evening":"مساء الخير",
+"lan": "لغة",
+"Welcome":"أهلا وسهلاً",
+
+"daysprice6" : " سعر 6 أيام",
+
+"daysprice20": " سعر 20 أيام",
+
+"daysprice25": " سعر 25 أيام",
+"Programme" : "البرنامج",
+
+"FoodSystem": "البرنامج الغذائي",
+"PleaseIwant": "الرجاء أريد",
+
+"forr" : "ل",
+"days6" : "6 أيام",
+
+"days20": "20 أيام",
+
+"days25": "25 أيام",
+"Setting" : "الإعدادت",
+"Enteryouremail":  "ادخل إيميلك الشخصي",
+"Enteryourpassword":"ادخل كلمة السر الخاصة بك",
+"CREATEANACCOUNT" :  "إنشاء حساب",
+"Registerinwith" : "التسجيل عن طريق",
+"Show":"إظهار",
+"Donthaveanaccount" :"لا تملك حساب؟",
+"Signin" :"الدخول",
+"signinwith" : "التسجيل عن طريق",
+"Login": "ادخل",
+
+"FirstWeek": "الاسبوع الأول",
+"SecondWeek": "الاسبوع الثاني",
+"ThirdWeek": "الاسبوع الثالث",
+"FourthWeek": "الاسبوع الرابع", 
+"RamadanPackages" : "باقات رمضان",
+"days30"  : "30 يوم",
+"Whatsapp" : "واتس", 
+"titlemeal" : "3 وجبات + 1 وجبة سريعة",
+"subtitlemeal" :"لاختيار وجبتك يرجى الاتصال\n بنا بالواتس ",
+"Plan" : "خطة"
+    
+    
+}

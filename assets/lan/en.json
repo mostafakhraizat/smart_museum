@@ -1,0 +1,59 @@
+{
+
+"Hi":"Hi",
+"Morning": "Morning",
+"Ramadan" : "Ramadan",
+"RamadanPackage": "Ramadan Package",
+"WeightLoss": "Weight Loss",
+"LowCarbohydrate":"Low Carbohydrate",
+"Keto":"Keto",
+"Vegetarian":"Vegetarian",
+"Private":"Private",
+"WeightIncrement": "Weight Increment",
+"Regular":"Regular",
+"Sport": "Sport",
+"Ourpackages":"Our packages",
+"Afternoon":"Afternoon",
+"Evening":"Evening",
+"lan": "language",
+"Welcome":"Welcome",
+
+"daysprice6" : "6 days price",
+
+"daysprice20": "20 days price",
+
+"daysprice25": "25 days price",
+"Programme" : "Programme",
+"FoodSystem": "Food System",
+"PleaseIwant": "Please I want",
+
+"forr" : "for",
+"days6" : "6 days",
+
+"days20": "20 days",
+
+"days25": "25 days",
+"Setting" : "Setting",
+"Enteryouremail":  "Enter your email",
+"Enteryourpassword":"Enter your password",
+"CREATEANACCOUNT" :  "CREATE AN ACCOUNT",
+"Registerinwith" : "Register in with",
+"Show":"Show",
+"Donthaveanaccount" :"Don't have an account?",
+"Signin" :"Sign in",
+"signinwith" : "sign in with",
+"Login": "Login",
+
+"FirstWeek": "First Week",
+"SecondWeek": "Second Week",
+"ThirdWeek": "Third Week",
+"FourthWeek": "Fourth Week", 
+"RamadanPackages" : "RamadanPackages",
+"days30"  : "30 days",
+"Whatsapp" : "Whatsapp",
+"titlemeal" : "3 Meal + 1 Snack",
+"subtitlemeal" :"To choose your meal \n chat with us on Whatsapp!",
+"Plan" : "Plan"
+
+
+}

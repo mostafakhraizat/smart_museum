@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "208729439957",
+    "firebase_url": "https://smartmuseum-ee36b-default-rtdb.firebaseio.com",
+    "project_id": "smartmuseum-ee36b",
+    "storage_bucket": "smartmuseum-ee36b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208729439957:android:a248349dbfbb585583ac5c",
+        "android_client_info": {
+          "package_name": "com.example.smart_museum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208729439957-4nlnpvlvldikm5it09v4fqgg4vekksmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn35fJu48AhYNC-Qvg5pJHESY-zTqLg04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208729439957-4nlnpvlvldikm5it09v4fqgg4vekksmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

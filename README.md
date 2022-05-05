@@ -1,16 +1,6 @@
 # smart_museum
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A Mobile app I built using flutter,
+its main gool to track the current location of a robot with arduino chip, the arduino sends its current location to firebase,
+and the aplication decides if the current location near one of the 5 statues implemented in system.
+The app is supported with 4 languages (English, Arabic, French, and Japanese).
+The user has the ability to view and update every statue's data (Video, image, and description)..
